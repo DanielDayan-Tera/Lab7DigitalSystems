@@ -1,4 +1,4 @@
-module(
+module ones_compliment(
   input [9:0]sw,
   output [5:0]led
 );
@@ -19,3 +19,4 @@ module(
   
   
 endmodule
+
